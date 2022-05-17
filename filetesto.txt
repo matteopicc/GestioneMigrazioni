@@ -1,0 +1,26 @@
+Evento(T,Country,Quantità di persone)
+
+Evento(1,Italia,1000)
+       500 stanziali in italia
+       4 confinanti--> 125 persone per stato confinante
+       
+ Evento(2,Francia,125)
+      62 diventano stanziali in francia
+      63 si dividono tra 5 stati confinanti: circa 12 per stato e 3 stanziali
+      
+      
+ Evento(2,Svizzera,125)
+      62 stanziali, 63 si dividono in 4 stati confinanti
+      63 in 4 stati confinanti: 15 per stato, 3 stanziali
+ Evento(2,Austria,125)
+ Evento(2,Slovenia,125)
+ 
+ Evento(3,Spagna,12)
+ Evento(3,Italia,12)
+ Evento(3,Germania,12)
+ Evento(3,Belgio,12)
+ Evento(3,Olanda,12)
+ Evento(3,Francia,15)
+ Evento(3,Italia,15)
+ Evento(3,Germania,15)
+ Evento(3,Austria,15)
